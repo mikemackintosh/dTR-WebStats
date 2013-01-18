@@ -1,3 +1,8 @@
+/*
+ * doing Things Right - Web Stats
+ *
+ * author Mike Mackintosh <mike@bakeryframework.com>
+ */
 ;(function( $ ) {
 
   $.fn.dtrws = function( params ) {
